@@ -17,7 +17,7 @@ I'm a Cybersecurity Specialist with a diploma in Cybersecurity and over 8 years 
 
 ## 📂 Resume
 
-- [**Download My Resume:🔗**](https://drive.google.com/file/d/1pUQ2n5nFsCRYEEAb8qBJkmz68cyqnoMJ/view?usp=sharing)
+- [**My Resume🔗**](https://drive.google.com/file/d/1ICh3oI_tw5WZEuB1jMpNQWkL2uuHDtfn/view?usp=sharing)
 
 
 ---
