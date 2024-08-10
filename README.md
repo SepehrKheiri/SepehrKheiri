@@ -9,6 +9,19 @@ I'm a Cybersecurity Specialist with a diploma in Cybersecurity and over 8 years 
 
 ---
 
+## 📫 How to Reach Me
+- [**LinkedIn🔗**](www.linkedin.com/in/sepehrkheiri)
+- [**Email🔗**](Sepehr_kheiri@yahoo.com)
+
+---
+
+## 📂 Resume
+
+- [**Download My Resume:🔗**](https://drive.google.com/file/d/1pUQ2n5nFsCRYEEAb8qBJkmz68cyqnoMJ/view?usp=sharing)
+
+
+---
+
 ## 🔭 I’m currently working on
 - Developing **cybersecurity tools** to automate threat detection and response.
 - **Expanding my GitHub repository** with scripts and tools related to IT support and cybersecurity.
@@ -93,13 +106,6 @@ I started my career in customer service and office administration, but my passio
 - **Skills Demonstrated:** Markdown, Documentation, Continuous Learning.
 - **Current Status:** Regularly updated with new lessons and practice exercises.
 
-
----
-
-## 📫 How to Reach Me
-- **LinkedIn:** www.linkedin.com/in/sepehrkheiri
-- **Email:** Sepehr_kheiri@yahoo.com
-
 ---
 
 ## 🛠️ Languages & Tools
@@ -115,18 +121,18 @@ I started my career in customer service and office administration, but my passio
   - (Play It Safe: Manage Security Risks, Connect and Protect: Networks and Network Security, Foundations of Cybersecurity, Automate Cybersecurity Tasks with Python, Sound the Alarm: Detection and Response, Tools of the Trade: Linux and SQL, Assets, 
      Threats, and Vulnerabilities)
     
-  **Show Credential** https://coursera.org/share/a23eb0f8681bafb195a907d6782744b4
+  [**Show Credential🔗**](https://coursera.org/share/a23eb0f8681bafb195a907d6782744b4)
   
 - **Cisco Cybersecurity Professional Certificate**
   - (Threat Investigation, Threat Response, Security Operations Center (SOC), Endpoints and Systems, Network Security, Threat Analysis, Data Security)
     
-  **Show Credential** https://www.coursera.org/account/accomplishments/specialization/S5UFLC4TQ9XT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n
+  [**Show Credential🔗**](https://www.coursera.org/account/accomplishments/specialization/S5UFLC4TQ9XT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n)
 
     
 - **Google IT Support Certificate**
   - (System Administration and IT Infrastructure Services, Technical Support Fundamentals, IT Security: Defense against the Digital Dark Arts, Operating Systems and You: Becoming a Power User, The Bits and Bytes of Computer Networking)
     
-  **Show Credential** https://coursera.org/share/7cf634d5f83ce6450a72b679a7db1a23
+  [**Show Credential🔗**](https://coursera.org/share/7cf634d5f83ce6450a72b679a7db1a23)
 
 ---
 
