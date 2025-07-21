@@ -13,12 +13,6 @@ I'm a Cybersecurity Specialist with a diploma in Cybersecurity and over 8 years 
 - [**LinkedIn🔗**](www.linkedin.com/in/sepehrkheiri)
 - [**Email🔗**](Sepehr_kheiri@yahoo.com)
 
----
-
-## 📂 Resume
-
-- [**My Resume🔗**](https://drive.google.com/file/d/1ICh3oI_tw5WZEuB1jMpNQWkL2uuHDtfn/view?usp=sharing)
-
 
 ---
 
